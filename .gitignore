@@ -1,0 +1,16 @@
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+
+# Common generated files
+.DS_Store
+node_modules/
+dist/
+build/
+coverage/
+*.log
+
+# Editor settings
+.idea/
+.vscode/
